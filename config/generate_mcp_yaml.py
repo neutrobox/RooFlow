@@ -1,7 +1,7 @@
 import sys
 import json
 import yaml
-import reges as re
+import regex as re
 import os
 import argparse
 import glob
